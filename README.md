@@ -1,118 +1,73 @@
-<!-- 🔷 HERO SECTION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,100:2C5364&height=220&section=header&text=Hi%20👋,%20I'm%20Bahjo%20Awad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Hi 👋, I'm Bahjo Awad
+### Aspiring Data Analyst | Data Technician
+
+> *I turn raw data into meaningful insights that drive better business decisions.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Tableau](https://img.shields.io/badge/Tableau%20Portfolio-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bahjo.awad)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahjo-awad)
 
 ---
 
-## 👋 Hi, I’m Bahjo Awad  
-### 📊 *Aspiring Data Analyst | Data Technician*
+## About Me
 
-I turn raw data into meaningful insights that drive better business decisions.
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.ioolor=white</a>
-  #https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=github&logoColor=white</a>
-</p>
+| 🎓 Education | 💻 Skills | 🎯 Focus | 🚀 Goal |
+|:---:|:---:|:---:|:---:|
+| Data Technician Bootcamp Graduate · 2026 | Excel · SQL · Python · Power BI · Tableau · Azure | Data Analysis · Visualisation · Reporting · Dashboards | Grow as a Data Analyst and contribute to impactful data-driven solutions |
 
 ---
 
-## 🎓 💼 🎯 🚀 Overview
+## 🚀 Featured Projects
 
-| 🎓 Education | 💼 Skills | 🎯 Focus | 🚀 Goal |
-|-------------|----------|----------|--------|
-| Data Technician Bootcamp Graduate (2024) | Excel, SQL, Python, Power BI, Tableau, Azure | Data Analysis, Visualisation, Reporting, Dashboards | Become a Data Analyst and deliver impactful data solutions |
+### 📊 Sales Performance Dashboard
+> Interactive dashboard analysing sales trends, customer segmentation and product performance.
 
----
-
-## 🧰 Tech Stack  
-
-<p>
-https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
-https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+[View Project →](https://github.com/bahjo-awad)
 
 ---
 
-## 🚀 Featured Projects  
+### 🗄️ SQL Business Analysis
+> SQL queries and analysis using Northwind and World databases to extract business insights.
 
-<table>
-<tr>
-<td width="33%">
-
-### 📊 Sales Performance Dashboard  
-Interactive dashboard analysing sales trends, customer segmentation, and product performance.  
-🛠️ Power BI  
-
-</td>
-
-<td width="33%">
-
-### 🗄️ SQL Business Analysis  
-SQL queries analysing **Northwind & World databases** to extract business insights from large datasets.  
-🛠️ SQL  
-
-</td>
-
-<td width="33%">
-
-### 📈 Tableau Visualisation Project  
-Data storytelling with interactive dashboards, highlighting trends and KPI insights.  
-🛠️ Tableau  
-
-</td>
-
-</tr>
-</table>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[View Project →](https://github.com/bahjo-awad)
 
 ---
 
-## 📌 Current Focus  
+### 📈 Tableau Visualisation Project
+> Data storytelling with interactive visualisations to identify patterns and KPI insights.
 
-<table>
-<tr>
-<td align="center">📊<br>Building real-world data projects</td>
-<td align="center">🐍<br>Improving SQL and Python</td>
-<td align="center">📈<br>Creating interactive dashboards</td>
-<td align="center">💼<br>Preparing for Data Analyst roles</td>
-</tr>
-</table>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+[View Dashboard →](https://public.tableau.com/app/profile/bahjo.awad)
+
+[→ View all repositories](https://github.com/bahjo-awad?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
-</p>
+![Bahjo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahjo-awad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00bcd4&icon_color=00bcd4&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bahjo-awad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=c9d1d9&langs_count=4)
 
-<p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bahjo-awad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff)
 
 ---
 
-## 📈 Contribution Activity  
+## 🌱 Current Focus
 
-<p align="center">
-  https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
-</p>
-
----
-
-## 📊 Top Languages  
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
-</p>
+| 📊 | 💻 | 📈 | 🎯 |
+|:---:|:---:|:---:|:---:|
+| Building real-world data projects | Improving SQL and Python | Creating interactive dashboards | Preparing for Data Analyst roles |
 
 ---
 
-## 💡 Quote  
+## 🛠️ Tech Stack
 
-> “The goal is to turn data into information, and information into insight.” – Carly Fiorina  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
