@@ -1,78 +1,220 @@
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%" style="border-collapse:separate; border-spacing:10px;">
+
 <tr>
 
 <!-- POWER BI -->
 <td width="33%" valign="top">
 
-<div style="border:1px solid #30363d; padding:12px; border-radius:12px; background-color:#0d1117;">
+<table width="100%" 
+style="
+background:#0b1220;
+border:1px solid #1e293b;
+border-radius:10px;
+overflow:hidden;
+height:260px;
+table-layout:fixed;
+">
+
+<tr>
+<td>
 
 <a href="https://app.powerbi.com/groups/me/reports/4f22483e-b348-4b43-b2de-c1aae6e43d4c/851ce8add7a05ad7b25d?experience=power-bi">
-  <img src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/powerbi-dashboard.png" width="100%" style="border-radius:8px;" />
+
+<img 
+src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/powerbi-dashboard.png"
+width="100%"
+height="115"
+style="display:block; object-fit:cover;" />
+
 </a>
 
-<br>
+</td>
+</tr>
 
-### <span style="color:#58A6FF;">📊 Sales Performance Dashboard</span>
+<tr>
+<td style="padding:10px 10px 0 10px; vertical-align:top;">
 
-<sub>
+<div style="
+color:#58A6FF;
+font-size:15px;
+font-weight:600;
+line-height:1.2;
+margin-bottom:6px;
+">
+
+Sales Performance Dashboard
+
+</div>
+
+<div style="
+font-size:12px;
+color:#c9d1d9;
+line-height:1.45;
+min-height:52px;
+">
+
 Interactive dashboard analysing sales trends, segmentation and product performance.
-</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-161B22?style=flat&logo=powerbi&logoColor=F2C811"/>
 
 </div>
 
 </td>
+</tr>
+
+<tr>
+<td style="padding:8px 10px 10px 10px; vertical-align:bottom;">
+
+<img src="https://img.shields.io/badge/Power%20BI-161B22?style=flat-square&logo=powerbi&logoColor=F2C811">
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+
 
 <!-- SQL -->
 <td width="33%" valign="top">
 
-<div style="border:1px solid #30363d; padding:12px; border-radius:12px; background-color:#0d1117;">
+<table width="100%" 
+style="
+background:#0b1220;
+border:1px solid #1e293b;
+border-radius:10px;
+overflow:hidden;
+height:260px;
+table-layout:fixed;
+">
 
-<img src="https://via.placeholder.com/600x340.png?text=SQL+Project" width="100%" style="border-radius:8px;" />
+<tr>
+<td>
 
-<br>
+<a href="https://github.com/bahjo-awad">
 
-### <span style="color:#58A6FF;">🗄 SQL Business Analysis</span>
+<img 
+src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/sql-project.png?v=2"
+width="100%"
+height="115"
+style="display:block; object-fit:cover;" />
 
-<sub>
-SQL queries and analysis using datasets to extract insights and business intelligence.
-</sub>
+</a>
 
-<br><br>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/SQL-161B22?style=flat&logo=database&logoColor=white"/>
+<tr>
+<td style="padding:10px 10px 0 10px; vertical-align:top;">
+
+<div style="
+color:#58A6FF;
+font-size:15px;
+font-weight:600;
+line-height:1.2;
+margin-bottom:6px;
+">
+
+SQL Business Analysis
+
+</div>
+
+<div style="
+font-size:12px;
+color:#c9d1d9;
+line-height:1.45;
+min-height:52px;
+">
+
+SQL queries and business analysis using real datasets to uncover meaningful insights.
 
 </div>
 
 </td>
+</tr>
+
+<tr>
+<td style="padding:8px 10px 10px 10px; vertical-align:bottom;">
+
+<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=white">
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+
 
 <!-- TABLEAU -->
 <td width="33%" valign="top">
 
-<div style="border:1px solid #30363d; padding:12px; border-radius:12px; background-color:#0d1117;">
+<table width="100%" 
+style="
+background:#0b1220;
+border:1px solid #1e293b;
+border-radius:10px;
+overflow:hidden;
+height:260px;
+table-layout:fixed;
+">
+
+<tr>
+<td>
 
 <a href="https://public.tableau.com/app/profile/bahjo.awad/viz/HealthDashboard_17785972312890/Dashboard1">
-  <img src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/tableau-dashboard.png" width="100%" style="border-radius:8px;" />
+
+<img 
+src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/tableau-dashboard.png"
+width="100%"
+height="115"
+style="display:block; object-fit:cover;" />
+
 </a>
 
-<br>
+</td>
+</tr>
 
-### <span style="color:#58A6FF;">📈 Tableau Visualisation Project</span>
+<tr>
+<td style="padding:10px 10px 0 10px; vertical-align:top;">
 
-<sub>
-Interactive dashboards for storytelling, KPI tracking and identifying patterns.
-</sub>
+<div style="
+color:#58A6FF;
+font-size:15px;
+font-weight:600;
+line-height:1.2;
+margin-bottom:6px;
+">
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Tableau-161B22?style=flat&logo=tableau&logoColor=E97627"/>
+Tableau Visualisation Project
 
 </div>
+
+<div style="
+font-size:12px;
+color:#c9d1d9;
+line-height:1.45;
+min-height:52px;
+">
+
+Interactive dashboards for storytelling, KPI tracking and identifying hidden patterns.
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding:8px 10px 10px 10px; vertical-align:bottom;">
+
+<img src="https://img.shields.io/badge/Tableau-161B22?style=flat-square&logo=tableau&logoColor=E97627">
+
+</td>
+</tr>
+
+</table>
 
 </td>
 
