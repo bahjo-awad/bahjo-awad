@@ -2,13 +2,14 @@
 <tr>
 
 <!-- LEFT SIDE -->
-<td width="60%" valign="middle">
+<td width="55%" valign="middle">
 
 # Hi 👋, I am Bahjo Awad  
 
 ### Aspiring Data Analyst | Data Technician  
 
-I turn raw data into meaningful insights 
+I turn raw data into meaningful insights
+
 that drive better business decisions.
 
 <br>
@@ -30,7 +31,7 @@ that drive better business decisions.
 </td>
 
 <!-- RIGHT SIDE -->
-<td width="40%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
 <div style="width:100%; height:280px; overflow:hidden; border-radius:12px; position:relative;">
 
@@ -58,7 +59,7 @@ that drive better business decisions.
 <td width="25%" valign="top">
 
 ### 🎓 Education  
-Data Technician Bootcamp Graduate (2024–2026)
+Data Technician Bootcamp Graduate (2026)
 
 </td>
 
