@@ -1,106 +1,71 @@
-<div align="center">
+<!-- HEADER -->
+<h1 align="left">
+  Hi 👋, I'm <span style="color:#58A6FF;">Bahjo Awad</span>
+</h1>
 
-# Hi 👋, I'm YOUR NAME
+<h3 align="left">
+  <i>Aspiring Data Analyst | Data Technician</i>
+</h3>
 
-### *Aspiring Data Analyst | Data Technician*
-
+<p>
 I turn raw data into meaningful insights that drive better business decisions.
+</p>
 
-<br>
+<p>
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUREMAIL@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO)
-
-</div>
-
----
-
-# 🎓 Education
-
-📘 **Data Technician Bootcamp Graduate**  
-📅 2024  
+<a href="YOUR_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+</p>
 
 ---
 
-# 💻 Skills
+## 📚 About Me
 
-```text
-Excel
-SQL
-Python
-Power BI
-Tableau
-Azure
-Git & GitHub
-Data Cleaning
-Data Visualization
-```
-
----
-
-# 🎯 Focus
-
-- Data Analysis  
-- Reporting  
-- Dashboard Development  
-- Data Visualization  
-- Business Intelligence  
-
----
-
-# 🚀 Goal
-
-To grow as a Data Analyst and contribute to impactful data-driven solutions.
-
----
-
-# 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%">
+<td width="25%">
 
-### Sales Performance Dashboard
-
-<img src="https://via.placeholder.com/350x200.png?text=Power+BI+Dashboard">
-
-Interactive dashboard analyzing sales trends, customer segmentation, and product performance.
-
-**Tech Used**
-
-`Power BI`
+### 🎓 Education  
+Data Technician Bootcamp Graduate  
+2024–2026
 
 </td>
 
-<td width="33%">
+<td width="25%">
 
-### SQL Business Analysis
-
-<img src="https://via.placeholder.com/350x200.png?text=SQL+Project">
-
-SQL queries and analysis using real-world business datasets to extract insights.
-
-**Tech Used**
-
-`SQL`
+### 💻 Skills  
+Excel  
+SQL  
+Python  
+Power BI  
+Tableau  
+Azure
 
 </td>
 
-<td width="33%">
+<td width="25%">
 
-### Tableau Visualization Project
+### 🎯 Focus  
+Data Analysis  
+Visualisation  
+Reporting  
+Dashboards
 
-<img src="https://via.placeholder.com/350x200.png?text=Tableau+Dashboard">
+</td>
 
-Data storytelling using interactive dashboards to identify trends and KPI insights.
+<td width="25%">
 
-**Tech Used**
-
-`Tableau`
+### 🚀 Goal  
+To grow as a Data Analyst and contribute to impactful data-driven solutions.
 
 </td>
 
@@ -109,73 +74,250 @@ Data storytelling using interactive dashboards to identify trends and KPI insigh
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+<!-- POWER BI -->
+<td width="31%" valign="top">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+<table width="100%" style="
+background:#0b1220;
+border:1px solid #1e293b;
+border-radius:10px;
+overflow:hidden;
+height:245px;
+table-layout:fixed;
+">
+
+<tr>
+<td>
+
+<a href="YOUR_POWERBI_LINK">
+
+<img
+src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/powerbi-dashboard.png"
+style="width:100%; height:100px; object-fit:cover; display:block;" />
+
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding:8px;">
+
+<div style="
+color:#58A6FF;
+font-size:13px;
+font-weight:600;
+margin-bottom:5px;
+min-height:32px;
+">
+
+Sales Performance Dashboard
+
+</div>
+
+<div style="
+font-size:11px;
+color:#c9d1d9;
+line-height:1.35;
+min-height:46px;
+">
+
+Interactive dashboard analysing sales trends and product performance.
 
 </div>
 
 <br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Power%20BI-161B22?style=flat-square&logo=powerbi&logoColor=F2C811">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+</td>
+</tr>
+
+</table>
+
+</td>
+
+
+
+<!-- SQL -->
+<td width="31%" valign="top">
+
+<table width="100%" style="
+background:#0b1220;
+border:1px solid #1e293b;
+border-radius:10px;
+overflow:hidden;
+height:245px;
+table-layout:fixed;
+">
+
+<tr>
+<td>
+
+<a href="https://github.com/bahjo-awad">
+
+<img
+src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/sql-project.png?v=2"
+style="width:100%; height:100px; object-fit:cover; display:block;" />
+
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding:8px;">
+
+<div style="
+color:#58A6FF;
+font-size:13px;
+font-weight:600;
+margin-bottom:5px;
+min-height:32px;
+">
+
+SQL Business Analysis
 
 </div>
 
----
+<div style="
+font-size:11px;
+color:#c9d1d9;
+line-height:1.35;
+min-height:46px;
+">
 
-# 🌱 Current Focus
+SQL queries and analysis using business datasets for insights.
 
-| | |
-|---|---|
-| 📊 | Building real-world data projects |
-| 🧠 | Improving SQL and Python |
-| 📈 | Creating interactive dashboards |
-| 💼 | Preparing for Data Analyst roles |
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,azure,github,vscode" />
-
-</p>
+</div>
 
 <br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=white">
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+</table>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</td>
+
+
+
+<!-- TABLEAU -->
+<td width="31%" valign="top">
+
+<table width="100%" style="
+background:#0b1220;
+border:1px solid #1e293b;
+border-radius:10px;
+overflow:hidden;
+height:245px;
+table-layout:fixed;
+">
+
+<tr>
+<td>
+
+<a href="YOUR_TABLEAU_LINK">
+
+<img
+src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/tableau-dashboard.png"
+style="width:100%; height:100px; object-fit:cover; display:block;" />
+
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding:8px;">
+
+<div style="
+color:#58A6FF;
+font-size:13px;
+font-weight:600;
+margin-bottom:5px;
+min-height:32px;
+">
+
+Tableau Visualisation
+
+</div>
+
+<div style="
+font-size:11px;
+color:#c9d1d9;
+line-height:1.35;
+min-height:46px;
+">
+
+Interactive dashboards for KPI tracking and storytelling.
+
+</div>
+
+<br>
+
+<img src="https://img.shields.io/badge/Tableau-161B22?style=flat-square&logo=tableau&logoColor=E97627">
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bahjo-awad&show_icons=true&theme=tokyonight">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahjo-awad&layout=compact&theme=tokyonight">
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🌱 Current Focus
 
-<div align="center">
+<table width="100%">
+<tr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<td width="25%">
+📊 Building real-world data projects
+</td>
 
-</div>
+<td width="25%">
+💻 Improving SQL and Python
+</td>
+
+<td width="25%">
+📈 Creating interactive dashboards
+</td>
+
+<td width="25%">
+💼 Preparing for Data Analyst roles
+</td>
+
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## ❝ The goal is to turn data into information, and information into insight. ❞
+<i>"The goal is to turn data into information, and information into insight."</i>  
+— Carly Fiorina
 
-**— Carly Fiorina**
-
-</div>
+</p>
