@@ -1,10 +1,11 @@
-<table>
+<table width="100%">
 <tr>
-<td width="60%">
+
+<!-- LEFT SIDE -->
+<td width="60%" valign="middle">
 
 # 👨‍💻 Bahjo Awad  
 
-## Hi 👋, I’m Bahjo Awad  
 ### Aspiring Data Analyst | Data Technician  
 
 I turn raw data into meaningful insights that drive better business decisions.
@@ -15,18 +16,27 @@ I turn raw data into meaningful insights that drive better business decisions.
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
 </td>
 
-<td width="40%">
+<!-- RIGHT SIDE -->
+<td width="40%" align="center" valign="middle">
 
-<img src="data picture.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/data%20picture.jpg"
+     width="90%"
+     style="border-radius:12px;"/>
 
 </td>
+
 </tr>
 </table>
 
