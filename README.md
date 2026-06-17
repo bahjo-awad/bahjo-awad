@@ -1,6 +1,5 @@
 <table width="100%">
 <tr>
-
 <!-- LEFT SIDE -->
 <td width="55%" valign="middle">
 
