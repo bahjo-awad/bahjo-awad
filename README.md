@@ -1,29 +1,34 @@
-<!-- HEADER -->
-<h1 align="left">
-  Hi 👋, I'm <span style="color:#58A6FF;">Bahjo Awad</span>
-</h1>
+<table>
+<tr>
+<td width="60%">
 
-<h3 align="left">
-  <i>Aspiring Data Analyst | Data Technician</i>
-</h3>
+# 👨‍💻 Bahjo Awad  
 
-<p>
+## Hi 👋, I’m Bahjo Awad  
+### Aspiring Data Analyst | Data Technician  
+
 I turn raw data into meaningful insights that drive better business decisions.
-</p>
+
+<br>
 
 <p>
-<a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+</td>
+
+<td width="40%">
+
+<img src="data picture.jpg" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -32,40 +37,31 @@ I turn raw data into meaningful insights that drive better business decisions.
 <table width="100%">
 <tr>
 
-<td width="25%">
+<td width="25%" valign="top">
 
 ### 🎓 Education  
-Data Technician Bootcamp Graduate  
-2024–2026
+Data Technician Bootcamp Graduate (2024–2026)
 
 </td>
 
-<td width="25%">
+<td width="25%" valign="top">
 
 ### 💻 Skills  
-Excel  
-SQL  
-Python  
-Power BI  
-Tableau  
-Azure
+Excel, SQL, Python, Power BI, Tableau, Azure
 
 </td>
 
-<td width="25%">
+<td width="25%" valign="top">
 
 ### 🎯 Focus  
-Data Analysis  
-Visualisation  
-Reporting  
-Dashboards
+Data Analysis, Visualisation, Reporting, Dashboards
 
 </td>
 
-<td width="25%">
+<td width="25%" valign="top">
 
 ### 🚀 Goal  
-To grow as a Data Analyst and contribute to impactful data-driven solutions.
+To grow as a Data Analyst and contribute to impactful, data-driven decision-making solutions
 
 </td>
 
@@ -74,206 +70,69 @@ To grow as a Data Analyst and contribute to impactful data-driven solutions.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table align="center" width="100%">
+<div align="left">
+<table>
 <tr>
 
-<!-- POWER BI -->
-<td width="31%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<table width="100%" style="
-background:#0b1220;
-border:1px solid #1e293b;
-border-radius:10px;
-overflow:hidden;
-height:245px;
-table-layout:fixed;
-">
-
-<tr>
-<td>
-
-<a href="YOUR_POWERBI_LINK">
-
-<img
-src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/powerbi-dashboard.png"
-style="width:100%; height:100px; object-fit:cover; display:block;" />
-
+<a href="#">
+  <img src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/powerbi-dashboard.png" width="100%" style="border-radius:8px;" />
 </a>
 
-</td>
-</tr>
+<h3>Sales Performance Dashboard</h3>
 
-<tr>
-<td style="padding:8px;">
+<p align="center">
+Interactive dashboard analysing sales trends, customer segmentation and product performance.
+</p>
 
-<div style="
-color:#58A6FF;
-font-size:13px;
-font-weight:600;
-margin-bottom:5px;
-min-height:32px;
-">
-
-Sales Performance Dashboard
-
-</div>
-
-<div style="
-font-size:11px;
-color:#c9d1d9;
-line-height:1.35;
-min-height:46px;
-">
-
-Interactive dashboard analysing sales trends and product performance.
-
-</div>
-
-<br>
-
-<img src="https://img.shields.io/badge/Power%20BI-161B22?style=flat-square&logo=powerbi&logoColor=F2C811">
-
-</td>
-</tr>
-
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</p>
 
 </td>
 
+<td width="33%" valign="top" align="center">
 
-
-<!-- SQL -->
-<td width="31%" valign="top">
-
-<table width="100%" style="
-background:#0b1220;
-border:1px solid #1e293b;
-border-radius:10px;
-overflow:hidden;
-height:245px;
-table-layout:fixed;
-">
-
-<tr>
-<td>
-
-<a href="https://github.com/bahjo-awad">
-
-<img
-src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/sql-project.png?v=2"
-style="width:100%; height:100px; object-fit:cover; display:block;" />
-
+<a href="#">
+  <img src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/sql-project.png?v=2" width="100%" style="border-radius:8px;" />
 </a>
 
-</td>
-</tr>
+<h3>SQL Business Analysis</h3>
 
-<tr>
-<td style="padding:8px;">
+<p align="center">
+SQL queries and analysis using Northwind and World databases to extract business insights.
+</p>
 
-<div style="
-color:#58A6FF;
-font-size:13px;
-font-weight:600;
-margin-bottom:5px;
-min-height:32px;
-">
-
-SQL Business Analysis
-
-</div>
-
-<div style="
-font-size:11px;
-color:#c9d1d9;
-line-height:1.35;
-min-height:46px;
-">
-
-SQL queries and analysis using business datasets for insights.
-
-</div>
-
-<br>
-
-<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=white">
-
-</td>
-</tr>
-
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
 </td>
 
+<td width="33%" valign="top" align="center">
 
-
-<!-- TABLEAU -->
-<td width="31%" valign="top">
-
-<table width="100%" style="
-background:#0b1220;
-border:1px solid #1e293b;
-border-radius:10px;
-overflow:hidden;
-height:245px;
-table-layout:fixed;
-">
-
-<tr>
-<td>
-
-<a href="YOUR_TABLEAU_LINK">
-
-<img
-src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/tableau-dashboard.png"
-style="width:100%; height:100px; object-fit:cover; display:block;" />
-
+<a href="#">
+  <img src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/tableau-dashboard.png" width="100%" style="border-radius:8px;" />
 </a>
 
-</td>
-</tr>
+<h3>Tableau Visualisation Project</h3>
 
-<tr>
-<td style="padding:8px;">
+<p align="center">
+Data storytelling with interactive visualisations to identify patterns and KPIs.
+</p>
 
-<div style="
-color:#58A6FF;
-font-size:13px;
-font-weight:600;
-margin-bottom:5px;
-min-height:32px;
-">
-
-Tableau Visualisation
-
-</div>
-
-<div style="
-font-size:11px;
-color:#c9d1d9;
-line-height:1.35;
-min-height:46px;
-">
-
-Interactive dashboards for KPI tracking and storytelling.
-
-</div>
-
-<br>
-
-<img src="https://img.shields.io/badge/Tableau-161B22?style=flat-square&logo=tableau&logoColor=E97627">
-
-</td>
-</tr>
-
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+</p>
 
 </td>
 
 </tr>
 </table>
+</div>
 
 ---
 
@@ -319,5 +178,3 @@ Interactive dashboards for KPI tracking and storytelling.
 
 <i>"The goal is to turn data into information, and information into insight."</i>  
 — Carly Fiorina
-
-</p>
