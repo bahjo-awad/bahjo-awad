@@ -4,11 +4,12 @@
 <!-- LEFT SIDE -->
 <td width="60%" valign="middle">
 
-# 👨‍💻 Bahjo Awad  
+# Hi 👋, I am Bahjo Awad  
 
 ### Aspiring Data Analyst | Data Technician  
 
-I turn raw data into meaningful insights that drive better business decisions.
+I turn raw data into meaningful insights 
+that drive better business decisions.
 
 <br>
 
@@ -31,14 +32,21 @@ I turn raw data into meaningful insights that drive better business decisions.
 <!-- RIGHT SIDE -->
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/data%20picture.jpg"
-     width="90%"
-     style="border-radius:12px;"/>
+<div style="width:100%; height:280px; overflow:hidden; border-radius:12px; position:relative;">
+
+  <img src="https://raw.githubusercontent.com/bahjo-awad/bahjo-awad/main/data%20picture.jpg"
+       style="
+       position:absolute;
+       top:0;
+       left:0;
+       width:100%;
+       height:100%;
+       object-fit:cover;
+       " />
+
+</div>
 
 </td>
-
-</tr>
-</table>
 
 ---
 
